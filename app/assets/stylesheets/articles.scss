@@ -1,0 +1,19 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com
+
+li{
+  font-size: 30px;
+  color:#337ab7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.new {
+  background: grey;
+  height: 60px;
+  text-align: right;
+  font-size: 18px;
+  font-weight: bold;
+
+}
